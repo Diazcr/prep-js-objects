@@ -25,6 +25,13 @@
             - add a key named `driver` and set it to be `null`.
             - add a key named `passengers` and set it to be an empty array.
  */
+var stockCar = {
+    model: "Ford",
+    year: 2001,
+    automaticTransmission : true,
+    driver: null,
+    passengers: []
+}
 //var stockCar = '';
   //  key.model + "ford" key.year + "2001" + key.automaticTransmission + "true" + key.driver + ""+ key.passenger + []
 
